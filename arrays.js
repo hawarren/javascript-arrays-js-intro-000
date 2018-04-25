@@ -38,3 +38,4 @@ function accessElementInArray(thisArray, thisIndex){
   function removeElementFromEndOfArray(thisArray){
     //newArray = thisArray.slice(-1);
     return thisArray.sliace(-1);
+  }
